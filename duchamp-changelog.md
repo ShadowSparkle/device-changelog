@@ -1,6 +1,15 @@
 Device Changelog
 =========================
 
+## 18/11/2026
+---
+
+* Added XiaomiParts (Thanks to Atharva) 
+* Added Custom GameSpace for XiaomiParts (Thanks to @HaSK110 for references) (Go to Settings > Apps > GameSpace)
+* Fix some bugs with bluetooth (Chinese earpods...)
+* Test for LHDC 
+* Set default Wi-Fi country code to US
+
 ## 12/11/2026
 ---
 
