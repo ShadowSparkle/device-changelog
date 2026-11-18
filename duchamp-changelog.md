@@ -9,6 +9,7 @@ Device Changelog
 * Fix some bugs with bluetooth (Chinese earpods...)
 * Test for LHDC 
 * Set default Wi-Fi country code to US
+* Added new Themals, PD Kit, Perapp Touch Sampling 
 
 ## 12/11/2026
 ---
